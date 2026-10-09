@@ -11,6 +11,8 @@
 
 ## The experience
 
+**My biggest project ever.** Yoru.fun brings discovery, watching, personal libraries, and community into one place. Built by [Owais](https://github.com/greenman9909-cmd), shaped through many rounds of real browsing and playback.
+
 | Explore | Make it yours | Keep watching |
 | --- | --- | --- |
 | Search titles and browse genres | Save titles to your library | Resume your progress |
@@ -23,13 +25,46 @@ Sign in to save your library and progress across devices. Audio, subtitles, and 
 
 Open **[yoru.fun](https://yoru.fun)** on desktop or mobile. Browse first, then sign in when you want to keep your library with you.
 
-<details>
-<summary><strong>A closer look at the player</strong></summary>
+## A tour of Yoru.fun
+
+### 1. Discover your next watch
+
+![Yoru.fun homepage](docs/assets/home.png)
+
+Search a title, explore genres, and browse catalogue and episode updates. Updates describe recently added or changed episodes, rather than guaranteeing a new original release.
+
+### 2. Everything around the episode
 
 ![Yoru.fun player](docs/assets/player.png)
 
-Episode navigation, playback controls, and viewing options together in one place.
-</details>
+The player puts episode navigation, available audio and captions, autoplay, auto-skip, theater mode, and fullscreen within reach. Use the episode list to search for a number and move directly to your next episode.
+
+### 3. Made for your phone, too
+
+| Choose an episode | Keep watching |
+| --- | --- |
+| ![Mobile episode selector](docs/assets/mobile-selector.png) | ![Mobile playback](docs/assets/mobile-player.png) |
+
+Mobile navigation keeps Home, Browse, Latest, Search, and Library nearby. Episode controls adapt to a smaller screen so you can browse and watch from the same device.
+
+### 4. Your own space
+
+Save titles to your library, return to your viewing history, and continue from your progress. Personalize your profile, join the conversation through comments, or explore watching together. Sign in when you want your library and progress across devices.
+
+## Start watching
+
+1. Open [yoru.fun](https://yoru.fun) on your phone or desktop.
+2. Search for a title or explore Browse and Genres.
+3. Choose an available episode and audio or caption option.
+4. Sign in to keep your library and progress with you.
+
+The interface starts in English; you can change the website language in settings. Website language and episode audio or captions are separate choices. Available tracks depend on the episode.
+
+## Buy me a coffee
+
+If you enjoy Yoru.fun, a coffee helps me keep building and polishing it. Support is completely optional.
+
+<a href="https://ko-fi.com/yorusayano"><img src="https://storage.ko-fi.com/cdn/kofi3.png?v=3" width="190" alt="Buy me a coffee on Ko-fi"></a>
 
 ## Feedback welcome
 
